@@ -1,0 +1,14 @@
+X1 ~ Uniform (0,1)
+X2 ~ Uniform (0,1)
+X3 ~ Uniform (0,1)
+X4 ~ Uniform (0,1)
+X5 ~ Uniform (0,1)
+X6 ~ Uniform (0,1)
+X7 ~ Uniform (0,1)
+X8 ~ Uniform (0,1)
+X9 ~ Uniform (0,1)
+X10 ~ Uniform (0,1)
+X1-X2>0
+X3-X4>0
+(X5-0.5)^2+(X6-0.5)^2<0.25
+Number of samples – 10,100,10000
